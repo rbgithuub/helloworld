@@ -1,2 +1,2 @@
 #!/usr/bin/ruby
-puts ("Hello World\n")
+puts ("Hello World. Automate Planet\n")
